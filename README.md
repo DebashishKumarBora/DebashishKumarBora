@@ -4,7 +4,7 @@
 
 🌱 Currently expanding my skills in **machine learning, AI-driven automation, and advanced data visualization techniques** using tools like **Power BI, Python, and SQL**.
 
-💼 I’m a **Data Analyst** with expertise in **Power BI dashboards, SQL data querying, Python for data processing, and AI-assisted analytics workflows**. I also have **4+ years of experience in digital marketing analytics**, blending business intelligence with performance-driven strategies.
+💼 I’m a **Data Analyst** with expertise in **Power BI dashboards, SQL data querying, Python for data processing, and AI-assisted analytics workflows**. I also have **3+ years of experience in digital marketing analytics**, blending business intelligence with performance-driven strategies.
 
 💡 I enjoy working on projects that combine **AI, data science, and visualization** to uncover insights and support strategic decision-making.
 
