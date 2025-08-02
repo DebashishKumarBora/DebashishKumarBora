@@ -1,15 +1,15 @@
 👋 Hi, I’m @DebashishKumarBora
 
-👀 I’m interested in data analysis, digital marketing, and leveraging technology to solve business problems.
+👀 I’m passionate about **data analysis, AI, and leveraging technology to solve real-world business problems**.
 
-🌱 I’m currently learning machine learning and deepening my understanding of data visualization techniques.
+🌱 Currently expanding my skills in **machine learning, AI-driven automation, and advanced data visualization techniques** using tools like **Power BI, Python, and SQL**.
 
-💼 I’m a professional data analyst proficient in advanced Excel dashboards, SQL, Power BI, and Python. I have over 4 years of experience in digital marketing.
+💼 I’m a **Data Analyst** with expertise in **Power BI dashboards, SQL data querying, Python for data processing, and AI-assisted analytics workflows**. I also have **4+ years of experience in digital marketing analytics**, blending business intelligence with performance-driven strategies.
 
-💞️ I’m looking to collaborate on projects that involve data analysis, visualization, and digital marketing strategies.
+💡 I enjoy working on projects that combine **AI, data science, and visualization** to uncover insights and support strategic decision-making.
 
-📫 How to reach me: You can reach out to me via email at debashishbora29@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/debashish-kumar-bora-367845159/).
+📫 You can reach me at **debashishbora29@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/debashish-kumar-bora-367845159/).
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I'm passionate about photography and love capturing moments in nature during my free time.
+⚡ Fun Fact: Outside of data and tech, I love capturing nature through photography and experimenting with creative visual storytelling.
